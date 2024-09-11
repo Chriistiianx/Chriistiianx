@@ -22,8 +22,3 @@
   <img width="12" />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Chriistiianx/Chriistiianx/output/snake.svg" alt="Snake animation" />
-
-###
