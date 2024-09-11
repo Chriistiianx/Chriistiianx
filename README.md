@@ -7,12 +7,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chriistiianx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&v=1" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="left" height="150" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256" height="30" alt="javascript logo"  />
   <img width="12" />
