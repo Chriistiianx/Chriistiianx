@@ -16,3 +16,6 @@
   <img width="12" />
 </div>
 
+<img src="https://raw.githubusercontent.com/Chriistiianx/Chriistiianx/output/snake.svg" alt="Snake animation" />
+
+###
