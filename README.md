@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Christian and I'm a Backend Developer, from Alicante, Spain.</h2>
+<h2 align="left">
+  Hi <img src="https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar.gif" width="30px">! My name is Christian and I'm a Backend Developer, from Alicante, Spain.
+</h2>
 
 ###
 
