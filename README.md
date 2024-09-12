@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><br>- 📚 Estoy estudiando Desarrollo de Aplicaciones Multiplataforma ...<br></p>
+<p align="left"><br>- 📚 Estoy estudiando Desarrollo de Aplicaciones Multiplataforma<br></p>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Chriistiianx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&v=1" height="150" alt="stats graph" />
