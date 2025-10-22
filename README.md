@@ -5,7 +5,6 @@
 <h2 align="left">
   👨🏻‍💻 Sobre mí
 </h2>
-###
 
 <ul>
 <li> 💻 Desarrollador de Aplicaciones Multiplataforma</li>
