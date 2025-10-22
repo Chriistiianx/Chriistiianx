@@ -3,11 +3,13 @@
 </h2>
 
 <h2 align="left">
-  </> Sobre mí
+  👨🏻‍💻 Sobre mí
 </h2>
 ###
 
-<p align="left"><br>- 💻 Desarrollador de Aplicaciones Multiplataforma<br></p>
+<ul>
+<li> 💻 Desarrollador de Aplicaciones Multiplataforma</li>
+</ul>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
